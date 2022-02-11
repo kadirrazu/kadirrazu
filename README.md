@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kadirrazu
-- 👀 I’m interested in "Web Application Development"
+- 👀 I’m interested in "Web Development"
 - 🌱 I’m currently learning "ReactJS, TailwindCSS"
 - 💞️ I’m looking to collaborate on "Website Development, Web Based Application Softwares, Fixing issues with Websites"
 - 📫 How to reach me "Email: razu121@gmail.com, Website: http://kadir.tech"
