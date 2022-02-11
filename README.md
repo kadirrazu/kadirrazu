@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kadirrazu
-- 👀 I’m interested in "Web Applicaton Development"
-- 🌱 I’m currently learning "React, TailwindCSS"
-- 💞️ I’m looking to collaborate on "Website Development, Web Application, Fixing issues with Website"
+- 👀 I’m interested in "Web Application Development"
+- 🌱 I’m currently learning "ReactJS, TailwindCSS"
+- 💞️ I’m looking to collaborate on "Website Development, Web Based Application Softwares, Fixing issues with Websites"
 - 📫 How to reach me "Email: razu121@gmail.com, Website: http://kadir.tech"
 
 <!---
